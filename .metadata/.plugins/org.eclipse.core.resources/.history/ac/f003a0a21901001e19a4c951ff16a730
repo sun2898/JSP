@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+	<servlet-name>basic</servlet-name>
+	<servlet-class></servlet-class>
+</servlet>
+
+<servlet-mapping>
+	<servlet-name></servlet-name>
+	
+	
+	
+</servlet-mapping>

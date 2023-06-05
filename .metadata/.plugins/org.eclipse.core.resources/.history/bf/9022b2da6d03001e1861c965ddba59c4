@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h2>금주의 로또번호를 뽑아보자!</h2>
+	<form action ="lottoNumber.jsp"></form>
+	<input type ="submit" value = "추첨">
+</body>
+</html>
